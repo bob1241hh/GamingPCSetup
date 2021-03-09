@@ -13,7 +13,7 @@ $ntqtrmax = $null
 $ntqtrcur = $null
 
 #The resolution you want
-$ntdesiredres = 6000
+$ntdesiredres = 0500
 $ntsetres = $true
 $ntcurrentres = 156250
 
